@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "test",
+      "email": "test@yahoo.com",
+      "password": "testuser"
+    },
+    {
+      "username": "KONKEY DONG",
+      "email": "bigshacc@hotmail.com",
+      "password": "testuser"
+    },
+    {
+      "username": "justin is lame",
+      "email": "ShrekLover@yahoo.com",
+      "password": "testuser"
+    }
+  ]
+}
