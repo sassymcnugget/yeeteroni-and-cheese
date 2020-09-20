@@ -43,7 +43,7 @@ const results = (req, res) => {
 const show = (req, res) => {
      db.User.findById(req.params.id, (err, foundUser) => {
           if (err) console.log(`error in users#show: ${err}`)
-          res.status(200).json({ user: foundUser })
+          res.status(200).json(foundUser)
      })
 }
 

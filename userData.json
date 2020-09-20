@@ -3,12 +3,14 @@
     {
       "username": "test",
       "email": "test@yahoo.com",
-      "password": "testuser"
+      "password": "testuser",
+      "gameState": "NoGameData"
     },
     {
       "username": "KONKEY DONG",
       "email": "bigshacc@hotmail.com",
-      "password": "testuser"
+      "password": "testuser",
+      "gameState": "NoGameData"
     },
     {
       "username": "justin is lame",

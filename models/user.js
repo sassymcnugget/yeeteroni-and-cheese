@@ -5,8 +5,8 @@ const bcrypt = require("bcrypt");
 const UserSchema = new Schema({
   email: { type: String, required: true, unique: true },
   username: { type: String, required: true },
-  password: { type: String, required: true }
-  //gameState: {type: , required: false}
+  password: { type: String, required: true },
+  gameState: {type: String, required: false}
 });
 
 // methods
